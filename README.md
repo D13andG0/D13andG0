@@ -7,3 +7,5 @@
 💡 Se você está procurando um desenvolvedor motivado, criativo e apaixonado por tecnologia, você encontrou a pessoa certa! Vamos trabalhar juntos para criar soluções incríveis e transformar ideias em realidade.
 
 🤝 Vamos nos conectar e criar algo incrível juntos? Estou animado para começar!
+
+<img align="right" alt="Coding" width="400" src="(https://annphoto.net/wp-content/uploads/2021/06/7-dicas-para-fotografia-de-paisagem-colorida-780x470.jpg)">

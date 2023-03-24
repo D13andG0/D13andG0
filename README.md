@@ -1,4 +1,5 @@
-👋 Olá, meu nome é Diego e sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e sempre em busca de aprender coisas novas.
+### 👋 Olá, meu nome é Diego 
+sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e sempre em busca de aprender coisas novas.
 
 💻 Minhas habilidades incluem Python, C, HTML, CSS e JavaScript. Com essas ferramentas, eu já desenvolvi projetos incríveis que me permitiram colocar em prática tudo o que aprendi na faculdade e também aprimorar minhas habilidades como desenvolvedor.
 

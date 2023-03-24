@@ -8,4 +8,6 @@
 
 🤝 Vamos nos conectar e criar algo incrível juntos? Estou animado para começar!
 
-<img src="https://giphy.com/clips/SWAG-animals-cats-funny-2tbHRjglNE4CJRhCYI" width="200" height="200" alt="GIF animado">
+<div>
+    <img src="https://giphy.com/clips/SWAG-animals-cats-funny-2tbHRjglNE4CJRhCYI" width="200" height="200" alt="GIF animado">
+</div>

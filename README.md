@@ -7,7 +7,3 @@
 💡 Se você está procurando um desenvolvedor motivado, criativo e apaixonado por tecnologia, você encontrou a pessoa certa! Vamos trabalhar juntos para criar soluções incríveis e transformar ideias em realidade.
 
 🤝 Vamos nos conectar e criar algo incrível juntos? Estou animado para começar!
-
-<div>
-    <img src="https://giphy.com/clips/SWAG-animals-cats-funny-2tbHRjglNE4CJRhCYI" width="200" height="200" alt="GIF animado">
-</div>

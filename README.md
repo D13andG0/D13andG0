@@ -11,4 +11,4 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-balardi-a2680721b)
 
-![D13andG0 GitHub stats](https://github-readme-stats.vercel.app/api?username=d13andg0&show_icons=true&theme=radical)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diego&show_icons=true&theme=radical)
